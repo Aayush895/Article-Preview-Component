@@ -44,6 +44,5 @@ const toggleTooltipDisplay2 = () => {
       profile.classList.remove('share-toggle')
       profile.classList.add('profile')
     }
-  } else {
   }
 }
