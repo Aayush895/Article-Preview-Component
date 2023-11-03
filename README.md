@@ -26,8 +26,8 @@ Some of the challenges that occurred when building this layout were:
 
 ### Screenshot
 
-![Desktop-Img](./screenshot.jpg)
-![Mobile-Img]()
+![Desktop-Img](./Screenshots/desktop.png)
+![Mobile-Img](./Screenshots/mobile.png)
 
 ### Links
 
